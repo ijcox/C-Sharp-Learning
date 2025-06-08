@@ -5,7 +5,7 @@ class Frequency
     static void Main(string[] args)
     {
         Console.WriteLine("Enter a valid sentence:");
-        string input = Console.ReadLine(); //takes user input
+        string? input = Console.ReadLine(); //takes user input
 
         if (string.IsNullOrWhiteSpace(input))
         {
