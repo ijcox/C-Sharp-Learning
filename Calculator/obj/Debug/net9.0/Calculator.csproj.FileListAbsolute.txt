@@ -1,0 +1,15 @@
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+C:\Users\Ian\Documents\C# Projects\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\Ian\Documents\C# Projects\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\Ian\Documents\C# Projects\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\Ian\Documents\C# Projects\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\Ian\Documents\C# Projects\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\Ian\Documents\C# Projects\Calculator\obj\Debug\net9.0\ref\Calculator.dll
