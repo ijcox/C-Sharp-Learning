@@ -1,0 +1,15 @@
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.AssemblyInfo.cs
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.sourcelink.json
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\bin\Debug\net9.0\ZooExercise.exe
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\bin\Debug\net9.0\ZooExercise.deps.json
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\bin\Debug\net9.0\ZooExercise.runtimeconfig.json
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\bin\Debug\net9.0\ZooExercise.dll
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\bin\Debug\net9.0\ZooExercise.pdb
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.dll
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\refint\ZooExercise.dll
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.pdb
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ZooExercise.genruntimeconfig.cache
+C:\Users\Ian\Documents\C# Projects\Exercises\ZooExercise\obj\Debug\net9.0\ref\ZooExercise.dll

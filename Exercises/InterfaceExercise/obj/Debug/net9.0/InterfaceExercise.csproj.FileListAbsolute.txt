@@ -1,0 +1,15 @@
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.sourcelink.json
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.exe
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.deps.json
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.runtimeconfig.json
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.dll
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\bin\Debug\net9.0\InterfaceExercise.pdb
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.dll
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\refint\InterfaceExercise.dll
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.pdb
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\InterfaceExercise.genruntimeconfig.cache
+C:\Users\Ian\Documents\C# Projects\Exercises\InterfaceExercise\obj\Debug\net9.0\ref\InterfaceExercise.dll

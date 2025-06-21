@@ -1,0 +1,15 @@
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.AssemblyInfo.cs
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.sourcelink.json
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\bin\Debug\net9.0\VehicleClassExercise.exe
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\bin\Debug\net9.0\VehicleClassExercise.deps.json
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\bin\Debug\net9.0\VehicleClassExercise.runtimeconfig.json
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\bin\Debug\net9.0\VehicleClassExercise.dll
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\bin\Debug\net9.0\VehicleClassExercise.pdb
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.dll
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\refint\VehicleClassExercise.dll
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.pdb
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\VehicleClassExercise.genruntimeconfig.cache
+C:\Users\Ian\Documents\C# Projects\VehicleClassExercise\obj\Debug\net9.0\ref\VehicleClassExercise.dll

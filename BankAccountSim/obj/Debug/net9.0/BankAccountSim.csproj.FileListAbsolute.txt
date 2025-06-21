@@ -1,0 +1,15 @@
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.AssemblyInfo.cs
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.sourcelink.json
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\bin\Debug\net9.0\BankAccountSim.exe
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\bin\Debug\net9.0\BankAccountSim.deps.json
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\bin\Debug\net9.0\BankAccountSim.runtimeconfig.json
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\bin\Debug\net9.0\BankAccountSim.dll
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\bin\Debug\net9.0\BankAccountSim.pdb
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.dll
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\refint\BankAccountSim.dll
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.pdb
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\BankAccountSim.genruntimeconfig.cache
+C:\Users\Ian\Documents\C# Projects\BankAccountSim\obj\Debug\net9.0\ref\BankAccountSim.dll
